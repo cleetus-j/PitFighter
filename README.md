@@ -1,5 +1,5 @@
 # PitFighter
-A non-complete disassembly of the SMS version of Pit Fighter.
+A non-complete disassembly of the PAL SMS version of Pit Fighter.
 This was aimed to get answers to a few questions regarding I had for the game, namely why the game is as big as it is, and what makes it tick.
 I got answers, so I'll share my findings with the game. The disassembly is not 100%, and it was not the goal, just an exploration in an older game. While this is not finished, there are more than enough comments, mostly my own ramblings and notes.
 I'm NOT a z80 programmer, not am I an expert on the field, and I definetly made some mistakes. This was a learning opportunity, and I tried my best to date to tackle the challenge.
